@@ -20,6 +20,8 @@ While my core interest lies in the energy sector, I'm also actively developing s
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -28,9 +30,9 @@ While my core interest lies in the energy sector, I'm also actively developing s
 ---
 
 ### 📂 Featured Projects
-- 🔍 [AdventureWorks SQL Project](https://github.com/JanviMadhukar/AdventureWorks) — Data exploration using SQL
-- 📊 [Python Data Analysis Project](https://github.com/JanviMadhukar/Python_Data_Project) — Python + Pandas + Matplotlib
-- 🎵 [Music Store Data Analysis](https://github.com/JanviMadhukar/Music-Store-Data-Analysis) — Real-world business case data insights
+- 📊 [AdventureWorks Power BI Dashboard](https://github.com/JanviMadhukar/AdventureWorks) — Visual insights & storytelling using **Power BI**
+- 🐍 [Python Data Analysis Project](https://github.com/JanviMadhukar/Python_Data_Project) — Data wrangling + visualization with **Python & Pandas**
+- 🧾 [Music Store Data Analysis (SQL)](https://github.com/JanviMadhukar/Music-Store-Data-Analysis) — Business-level insights using structured **SQL queries**
 
 ---
 
