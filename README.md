@@ -27,16 +27,16 @@ While my core interest lies in the energy sector, I'm also actively developing s
 
 ---
 
-### 📂 Projects in Progress
-- 🛢️ **Reservoir Analysis Dashboard** using Python & Excel  
-- 📉 **Well Production Forecasting** using machine learning models  
-- 📚 **Student Notes Repository** for Petroleum + Data topics
+### 📂 Featured Projects
+- 🔍 [AdventureWorks SQL Project](https://github.com/JanviMadhukar/AdventureWorks) — Data exploration using SQL
+- 📊 [Python Data Analysis Project](https://github.com/JanviMadhukar/Python_Data_Project) — Python + Pandas + Matplotlib
+- 🎵 [Music Store Data Analysis](https://github.com/JanviMadhukar/Music-Store-Data-Analysis) — Real-world business case data insights
 
 ---
 
 ### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/-janvi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:janvi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janvi-madhukar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Gmail](https://img.shields.io/badge/-janvimadhukar8213@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:janvimadhukar8213@gmail.com)
 
 ---
 
