@@ -32,7 +32,7 @@ While my core interest lies in the energy sector, I'm also actively developing s
 ### 📂 Featured Projects
 - 📊 [AdventureWorks Power BI Dashboard](https://github.com/JanviMadhukar/AdventureWorks) — Visual insights & storytelling using **Power BI**
 - 🐍 [Python Data Analysis Project](https://github.com/JanviMadhukar/Python_Data_Project) — Data wrangling + visualization with **Python & Pandas**
-- 🧾 [Music Store Data Analysis (SQL)](https://github.com/JanviMadhukar/Music-Store-Data-Analysis) — Business-level insights using structured **SQL queries**
+- 🧾 [Music Store Data Analysis (SQL)](https://github.com/JanviMadhukar/Music-Store-Data-Analysis-Project-using-SQL) — Business-level insights using structured **SQL queries**
 
 ---
 
